@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Scenario: NO CORRO Y QUEMARIA 20 CALORIAS POR KM POR LO TANTO QUEMO EN TOTAL 0 KCAL" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-10-19T04:06:15" hostname="Filyans-MacBook-Pro.local" time="0.002">
+  <properties/>
+  <testcase name="Given No ejercito" classname="Scenario: NO CORRO Y QUEMARIA 20 CALORIAS POR KM POR LO TANTO QUEMO EN TOTAL 0 KCAL" time="0.0"/>
+  <testcase name="When Quemo 20 calorias por km" classname="Scenario: NO CORRO Y QUEMARIA 20 CALORIAS POR KM POR LO TANTO QUEMO EN TOTAL 0 KCAL" time="0.0"/>
+  <testcase name="Then Quemo en total 0 calorias" classname="Scenario: NO CORRO Y QUEMARIA 20 CALORIAS POR KM POR LO TANTO QUEMO EN TOTAL 0 KCAL" time="0.0"/>
+  <testcase name="classMethod" classname="Scenario: NO CORRO Y QUEMARIA 20 CALORIAS POR KM POR LO TANTO QUEMO EN TOTAL 0 KCAL" time="0.004"/>
+  <system-out><![CDATA[
+  Scenario: CORRER UNA MARATON DE 5 KM QUEMANDO 20 CALORIAS POR KM QUEMO EN TOTAL 100 KCAL ?[90m# skeleton/Entrenar.feature:3?[0m
+    ?[32mGiven ?[0m?[32mCorrer ?[0m?[32m?[1m5?[0m?[32m km?[0m                                                                      ?[90m# StepDefinitions.correr_km(int)?[0m
+    ?[32mWhen ?[0m?[32mQuemo ?[0m?[32m?[1m20?[0m?[32m calorias por km?[0m                                                          ?[90m# StepDefinitions.quemo_calorias_por_km(int)?[0m
+    ?[32mThen ?[0m?[32mQuemo en total ?[0m?[32m?[1m100?[0m?[32m calorias?[0m                                                       ?[90m# StepDefinitions.quemo_calorias(int)?[0m
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

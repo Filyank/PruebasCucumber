@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Scenario: CORRO 11 KM QUEMANDO 10 CALORIAS POR KM Y ME COMO UN SANDWICH DE 120 CALORIAS POR LO TANTO QUEMO EN TOTAL -10 KCAL" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-10-19T04:06:15" hostname="Filyans-MacBook-Pro.local" time="0.003">
+  <properties/>
+  <testcase name="Given Correr 11 km" classname="Scenario: CORRO 11 KM QUEMANDO 10 CALORIAS POR KM Y ME COMO UN SANDWICH DE 120 CALORIAS POR LO TANTO QUEMO EN TOTAL -10 KCAL" time="0.0"/>
+  <testcase name="When Quemo 10 calorias por km" classname="Scenario: CORRO 11 KM QUEMANDO 10 CALORIAS POR KM Y ME COMO UN SANDWICH DE 120 CALORIAS POR LO TANTO QUEMO EN TOTAL -10 KCAL" time="0.0"/>
+  <testcase name="Then Como un sandwich de 100 calorias y quemo en total -10 calorias" classname="Scenario: CORRO 11 KM QUEMANDO 10 CALORIAS POR KM Y ME COMO UN SANDWICH DE 120 CALORIAS POR LO TANTO QUEMO EN TOTAL -10 KCAL" time="0.001"/>
+  <testcase name="classMethod" classname="Scenario: CORRO 11 KM QUEMANDO 10 CALORIAS POR KM Y ME COMO UN SANDWICH DE 120 CALORIAS POR LO TANTO QUEMO EN TOTAL -10 KCAL" time="0.006"/>
+  <system-out><![CDATA[
+  Scenario: CORRO 10 KM QUEMANDO 10 CALORIAS POR KM Y ME COMO UN SANDWICH DE 100 CALORIAS POR LO TANTO QUEMO EN TOTAL 0 KCAL ?[90m# skeleton/Entrenar.feature:13?[0m
+    ?[32mGiven ?[0m?[32mCorrer ?[0m?[32m?[1m10?[0m?[32m km?[0m                                                                                                       ?[90m# StepDefinitions.correr_km(int)?[0m
+    ?[32mWhen ?[0m?[32mQuemo ?[0m?[32m?[1m10?[0m?[32m calorias por km?[0m                                                                                            ?[90m# StepDefinitions.quemo_calorias_por_km(int)?[0m
+    ?[32mThen ?[0m?[32mComo un sandwich de ?[0m?[32m?[1m100?[0m?[32m calorias y quemo en total ?[0m?[32m?[1m0?[0m?[32m calorias?[0m                                                        ?[90m# StepDefinitions.como_un_sandwich_de_calorias_y_quemo_en_total_calorias(int,int)?[0m
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

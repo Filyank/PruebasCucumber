@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Scenario: CORRER UNA MARATON DE 5 KM QUEMANDO 20 CALORIAS POR KM QUEMO EN TOTAL 100 KCAL" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-10-19T04:06:15" hostname="Filyans-MacBook-Pro.local" time="0.005">
+  <properties/>
+  <testcase name="Given Correr 5 km" classname="Scenario: CORRER UNA MARATON DE 5 KM QUEMANDO 20 CALORIAS POR KM QUEMO EN TOTAL 100 KCAL" time="0.001"/>
+  <testcase name="When Quemo 20 calorias por km" classname="Scenario: CORRER UNA MARATON DE 5 KM QUEMANDO 20 CALORIAS POR KM QUEMO EN TOTAL 100 KCAL" time="0.0"/>
+  <testcase name="Then Quemo en total 100 calorias" classname="Scenario: CORRER UNA MARATON DE 5 KM QUEMANDO 20 CALORIAS POR KM QUEMO EN TOTAL 100 KCAL" time="0.0"/>
+  <testcase name="classMethod" classname="Scenario: CORRER UNA MARATON DE 5 KM QUEMANDO 20 CALORIAS POR KM QUEMO EN TOTAL 100 KCAL" time="0.177"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
